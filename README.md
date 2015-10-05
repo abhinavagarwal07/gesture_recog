@@ -1,3 +1,5 @@
+Install OpenCV 3.0
+
 cmake .
 
 make 
